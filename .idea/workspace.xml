@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b01619e6-5f98-43c2-8e9a-451c0b620889" name="Default Changelist" comment="">
+    <list default="true" id="26875364-e714-4280-a13d-5e83f192d654" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/highlightedFiles.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -36,7 +37,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b01619e6-5f98-43c2-8e9a-451c0b620889" name="Default Changelist" comment="" />
+      <changelist id="26875364-e714-4280-a13d-5e83f192d654" name="Default Changelist" comment="" />
       <created>1607811261992</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -49,7 +50,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -64,5 +67,25 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="949" height="703" key="XDebugger.FullValuePopup/0.0.2560.1400/-1920.247.1920.1040@0.0.2560.1400" timestamp="1607816443090" />
+    <state x="603" y="100" width="1865" height="1200" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1607867463660">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="603" y="100" width="1865" height="1200" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400/-1920.247.1920.1040@0.0.2560.1400" timestamp="1607867463660" />
+    <state x="1325" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1607867197334">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1325" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1920.247.1920.1040@0.0.2560.1400" timestamp="1607867197333" />
+    <state x="1333" y="389" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607867364001">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1333" y="389" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400/-1920.247.1920.1040@0.0.2560.1400" timestamp="1607867364001" />
+    <state x="1275" y="298" width="707" height="804" key="find.popup" timestamp="1607867336062">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1275" y="298" width="707" height="804" key="find.popup/0.0.2560.1400/-1920.247.1920.1040@0.0.2560.1400" timestamp="1607867336062" />
+    <state x="1198" y="319" width="672" height="678" key="search.everywhere.popup" timestamp="1607867453277">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1198" y="319" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-1920.247.1920.1040@0.0.2560.1400" timestamp="1607867453277" />
   </component>
 </project>
