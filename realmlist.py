@@ -11,7 +11,7 @@ def open_file(file_name):
     opened_file = open(file_name, "r", encoding="utf-8")
     return opened_file
 
-def open_realm_list(file_name):
+def open_json_file(file_name):
     """open imported from blizzard json file with realms"""
 
     file = open_file(file_name)
@@ -20,7 +20,7 @@ def open_realm_list(file_name):
     return data
 
 path = 'connected-realm.json'
-data = open_realm_list(path)
+data = open_json_file(path)
 
 def create_class_realms(data):
     """
@@ -62,5 +62,13 @@ def create_class_realms(data):
             realm.realm_id = realm_id
 
             list_class_realm.append(realm)
+
+
+def function_returning_id_of_lookin_server_by_name(name_of_server):
+    for x in list_class_realm:
+
+        if x.name_of_realm == name_of_server:
+            id_server = x.id_server
+            return id_server
 
 create_class_realms(data)
