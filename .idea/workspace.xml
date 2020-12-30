@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26875364-e714-4280-a13d-5e83f192d654" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ahscripe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/item.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/panda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_ah_file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiconnect.py" beforeDir="false" afterPath="$PROJECT_DIR$/apiconnect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/realmlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/realmlist.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
